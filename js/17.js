@@ -11,5 +11,14 @@ const numeros = [10, 20, 30]
  //})
 
  //Includes
- const resultado = tecnologias.includes("CSS")
+ //const resultado = tecnologias.includes("CSS")
+ //console.log(resultado)
+
+ //Find devuelve el primer elementos que cumple una condicion
+ //const resultado = numeros.find(numero => numero > 15)
+
+ //Every return True o False si todos cumplen la condición
+ //const resultado = numeros.every(numero => numero > 15)
+
+ //Reduce- retorna un acumulado del total
  console.log(resultado)
